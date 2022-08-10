@@ -6,7 +6,7 @@ The repository used by me as a HTTP API to get static data.
 GET https://fsaccone.github.io/data/me/about-me
 ```
 
-Returns
+### Returns
 | Key             | Type   | Description
 | ----------------|--------|--------------------
 | `icon_url`      | string | The URL of my icon.
