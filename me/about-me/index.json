@@ -1,5 +1,5 @@
 {
-    "icon_url": "http://fsaccone.github.io/data/me/about-me/assets/icon.jpg",
-    "description": "A {age} years old software developer from Italy.",
-    "contact_email": "francescosacconefs@gmail.com"
+  "icon_url": "http://fsaccone.github.io/data/me/about-me/assets/icon.jpg",
+  "description": "A {age} years old software developer from Italy.",
+  "contact_email": "francescosacconefs@gmail.com"
 }

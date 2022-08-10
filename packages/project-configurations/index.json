@@ -1,0 +1,21 @@
+[
+  {
+    "name": "basic",
+    "url": "https://fsaccone.github.io/data/packages/project-configurations/basic.rar"
+  },
+  {
+    "name": "browser",
+    "url": "https://fsaccone.github.io/data/packages/project-configurations/browser.rar",
+    "done_message": "Run `npm run config` to finish the configuration."
+  },
+  {
+    "name": "node",
+    "url": "https://fsaccone.github.io/data/packages/project-configurations/node.rar",
+    "done_message": "Run `npm run config` to finish the configuration."
+  },
+  {
+    "name": "react",
+    "url": "https://fsaccone.github.io/data/packages/project-configurations/react.rar",
+    "done_message": "Run `npm run config` to finish the configuration."
+  }
+]
