@@ -31,15 +31,28 @@ GET https://fsaccone.github.io/data/me/social-media
 ---
 
 ```http
+GET https://fsaccone.github.io/data/me/skills
+```
+
+### Returns an array of
+  | Key          | Type   | Description
+  | -------------|--------|--------------------
+  | `title`      | string | The name of the skill.
+  | `percentage` | number | The percentage of experience.
+
+### Used by my [website](https://github.com/fsaccone/website).
+---
+
+```http
 GET https://fsaccone.github.io/data/packages/project-configurations
 ```
 
 ### Returns an array of
-  | Key             | Type                | Description
-  | ----------------|---------------------|--------------------
-  | `name`          | string              | The name of the configuration.
-  | `url`           | string              | The URL to the archive.
-  | `done_message`? | string \| undefined | The message logged after the writing succeded.
+  | Key             | Type                  | Description
+  | ----------------|-----------------------|--------------------
+  | `name`          | string                | The name of the configuration.
+  | `url`           | string                | The URL to the archive.
+  | `done_message`? | string \| _undefined_ | The message logged after the writing succeded.
 
 ### Used by my [CLI](https://github.com/fsaccone/cli).
 ---
