@@ -1,5 +1,10 @@
 [
   {
+    "name": "cpp",
+    "url": "https://fsaccone.github.io/data/packages/project-configurations/cpp.zip",
+    "done_message": "Open `README.md` for instructions."
+  },
+  {
     "name": "browser",
     "url": "https://fsaccone.github.io/data/packages/project-configurations/browser.zip",
     "done_message": "Run `npm run config` to finish the configuration."
