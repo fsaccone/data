@@ -1,9 +1,5 @@
 [
   {
-    "name": "basic",
-    "url": "https://fsaccone.github.io/data/packages/project-configurations/basic.zip"
-  },
-  {
     "name": "browser",
     "url": "https://fsaccone.github.io/data/packages/project-configurations/browser.zip",
     "done_message": "Run `npm run config` to finish the configuration."
