@@ -1,15 +1,19 @@
 [
   {
-    "title": "TypeScript (and JavaScript)",
+    "title": "C++",
+    "percentage": 70
+  },
+  {
+    "title": "TypeScript/JavaScript",
     "percentage": 90
   },
   {
     "title": "HTML/CSS",
-    "percentage": 75
+    "percentage": 80
   },
   {
     "title": "Node.js",
-    "percentage": 80
+    "percentage": 85
   },
   {
     "title": "Data structures and algorithms",
