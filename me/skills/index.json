@@ -1,22 +1,22 @@
 [
   {
     "title": "C++",
-    "percentage": 70
+    "image_url": "https://fsaccone.github.io/data/me/skills/assets/cpp.png"
   },
   {
     "title": "TypeScript/JavaScript",
-    "percentage": 90
+    "image_url": "https://fsaccone.github.io/data/me/skills/assets/tsjs.png"
   },
   {
     "title": "HTML/CSS",
-    "percentage": 80
+    "image_url": "https://fsaccone.github.io/data/me/skills/assets/htmlcss.png"
   },
   {
     "title": "Node.js",
-    "percentage": 85
+    "image_url": "https://fsaccone.github.io/data/me/skills/assets/nodejs.png"
   },
   {
     "title": "Data structures and algorithms",
-    "percentage": 60
+    "image_url": "https://fsaccone.github.io/data/me/skills/assets/algorithms.png"
   }
 ]
