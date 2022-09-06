@@ -1,18 +1,46 @@
 [
   {
     "title": "C++",
-    "image_url": "https://fsaccone.github.io/data/me/skills/assets/cpp.png"
+    "images": [
+      {
+        "title": "C++",
+        "url": "https://fsaccone.github.io/data/me/skills/assets/cpp.png"
+      }
+    ]
   },
   {
     "title": "TypeScript/JavaScript",
-    "image_url": "https://fsaccone.github.io/data/me/skills/assets/tsjs.png"
+    "images": [
+      {
+        "title": "TypeScript",
+        "url": "https://fsaccone.github.io/data/me/skills/assets/ts.png"
+      },
+      {
+        "title": "JavaScript",
+        "url": "https://fsaccone.github.io/data/me/skills/assets/js.png"
+      }
+    ]
   },
   {
     "title": "HTML/CSS",
-    "image_url": "https://fsaccone.github.io/data/me/skills/assets/htmlcss.png"
+    "images": [
+      {
+        "title": "HTML",
+        "url": "https://fsaccone.github.io/data/me/skills/assets/html.png"
+      },
+      {
+        "title": "CSS",
+        "url": "https://fsaccone.github.io/data/me/skills/assets/css.png"
+      }
+    ]
   },
   {
     "title": "Node.js",
-    "image_url": "https://fsaccone.github.io/data/me/skills/assets/nodejs.png"
+    "images": [
+      {
+        "title": "Node.js",
+        "url": "https://fsaccone.github.io/data/me/skills/assets/nodejs.png"
+      }
+    ]
   }
 ]
