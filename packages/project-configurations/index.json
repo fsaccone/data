@@ -1,21 +1,25 @@
 [
   {
-    "name": "cpp",
-    "url": "https://fsaccone.github.io/data/packages/project-configurations/cpp.zip",
-    "done_message": "Open `README.md` for instructions."
-  },
-  {
     "name": "browser",
+    "description": "Typescript with webpack for the browser.",
     "url": "https://fsaccone.github.io/data/packages/project-configurations/browser.zip",
     "done_message": "Run `npm run config` to finish the configuration."
   },
   {
+    "name": "cpp",
+    "description": "C++ with CMake",
+    "url": "https://fsaccone.github.io/data/packages/project-configurations/cpp.zip",
+    "done_message": "Open `README.md` for instructions."
+  },
+  {
     "name": "node",
+    "description": "Typescript with webpack for Node.js.",
     "url": "https://fsaccone.github.io/data/packages/project-configurations/node.zip",
     "done_message": "Run `npm run config` to finish the configuration."
   },
   {
     "name": "react",
+    "description": "Typescript with webpack for React.",
     "url": "https://fsaccone.github.io/data/packages/project-configurations/react.zip",
     "done_message": "Run `npm run config` to finish the configuration."
   }
