@@ -6,12 +6,6 @@
     "done_message": "Run `npm run config` to finish the configuration."
   },
   {
-    "name": "c",
-    "description": "C with CMake",
-    "url": "https://fsaccone.github.io/data/packages/project-configurations/c.zip",
-    "done_message": "Open `README.md` for instructions."
-  },
-  {
     "name": "cpp",
     "description": "C++ with CMake",
     "url": "https://fsaccone.github.io/data/packages/project-configurations/cpp.zip",
