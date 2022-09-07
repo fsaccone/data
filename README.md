@@ -13,7 +13,7 @@ GET https://fsaccone.github.io/data/me/about-me
 | `description`   | string | My description.
 | `contact_email` | string | My contact email.
 
-### Used by my [website](https://github.com/fsaccone/website).
+#### Used by my [website](https://github.com/fsaccone/website).
 ---
 
 ```http
@@ -27,7 +27,7 @@ GET https://fsaccone.github.io/data/me/social-media
   | `url`        | string | The link to the profile.
   | `image_path` | string | The URL of the social icon.
 
-### Used by my [website](https://github.com/fsaccone/website).
+#### Used by my [website](https://github.com/fsaccone/website).
 ---
 
 ```http
@@ -40,7 +40,7 @@ GET https://fsaccone.github.io/data/me/skills
   | `title`      | string | The name of the skill.
   | `percentage` | number | The percentage of experience.
 
-### Used by my [website](https://github.com/fsaccone/website).
+#### Used by my [website](https://github.com/fsaccone/website).
 ---
 
 ```http
@@ -54,5 +54,5 @@ GET https://fsaccone.github.io/data/packages/project-configurations
   | `url`           | string                | The URL to the archive.
   | `done_message`? | string \| _undefined_ | The message logged after the writing succeded.
 
-### Used by my [CLI](https://github.com/fsaccone/cli).
+#### Used by my [CLI](https://github.com/fsaccone/cli).
 ---
