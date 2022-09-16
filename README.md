@@ -1,7 +1,8 @@
 # Data
 The repository used by me as a HTTP API to get static data.
 
-## Endpoints
+# Endpoints
+## About me
 ```http
 GET https://fsaccone.github.io/data/me/about-me
 ```
@@ -14,13 +15,13 @@ GET https://fsaccone.github.io/data/me/about-me
 | `contact_email` | string | My contact email.
 
 #### Used by my [website](https://github.com/fsaccone/website).
----
 
+## Social media
 ```http
 GET https://fsaccone.github.io/data/me/social-media
 ```
 
-### Returns an array of
+### Returns _n array of_
   | Key          | Type   | Description
   | -------------|--------|--------------------
   | `name`       | string | The name of the social media.
@@ -28,26 +29,29 @@ GET https://fsaccone.github.io/data/me/social-media
   | `image_path` | string | The URL of the social icon.
 
 #### Used by my [website](https://github.com/fsaccone/website).
----
 
+## Skills
 ```http
 GET https://fsaccone.github.io/data/me/skills
 ```
 
-### Returns an array of
-  | Key          | Type   | Description
-  | -------------|--------|--------------------
-  | `title`      | string | The name of the skill.
-  | `percentage` | number | The percentage of experience.
+### Returns _an array of_
+  | Key          | Type             | Description
+  | -------------|------------------|--------------------
+  | `title`      | string           | The name of the skill.
+  | `images`     | _Array<_`Image`_>_ | An array containing `Image`.
+### `Image`
+  | Key   | Type   | Description
+  |-------|--------|-----------------
+  | title | string | The alt of the image
+  | url   | string | The URL.
 
-#### Used by my [website](https://github.com/fsaccone/website).
----
-
+## Project configurations
 ```http
 GET https://fsaccone.github.io/data/packages/project-configurations
 ```
 
-### Returns an array of
+### Returns _an array of_
   | Key             | Type                  | Description
   | ----------------|-----------------------|--------------------
   | `name`          | string                | The name of the configuration.
@@ -55,4 +59,3 @@ GET https://fsaccone.github.io/data/packages/project-configurations
   | `done_message`? | string \| _undefined_ | The message logged after the writing succeded.
 
 #### Used by my [CLI](https://github.com/fsaccone/cli).
----
