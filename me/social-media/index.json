@@ -8,5 +8,10 @@
     "name": "Instagram",
     "url": "https://www.instagram.com/fsaccone_/",
     "image_path": "https://fsaccone.github.io/data/me/social-media/assets/instagram.png"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/31em2lyqgdph55jmcv2esk3b6jwm?si=e16eea9aaecc4974",
+    "image_path": "https://fsaccone.github.io/data/me/social-media/assets/spotify.png"
   }
 ]
