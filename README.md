@@ -21,7 +21,7 @@ GET https://fsaccone.github.io/data/me/about-me
 GET https://fsaccone.github.io/data/me/social-media
 ```
 
-### Returns _n array of_
+### Returns _an array of_
   | Key          | Type   | Description
   | -------------|--------|--------------------
   | `name`       | string | The name of the social media.
